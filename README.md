@@ -43,7 +43,7 @@ Com o **FII Planner**, você pode:
 ## ❓ Onde obter ajuda
 
 - Abra uma issue neste repositório: [https://github.com/SEU_USUARIO/FII-Planner/issues](https://github.com/SEU_USUARIO/FII-Planner/issues)
-- Ou envie um e-mail para **[seu-email@exemplo.com]**
+- Ou envie um e-mail para **[luanar.f@outlook.com.br]**
 
 ## 👥 Mantenedor
 
